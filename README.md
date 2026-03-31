@@ -1,6 +1,6 @@
 <!-- HEADER: Animated Typing Text -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajeet+Mohapatra!;Backend+Developer+%7C+Cybersecurity;Building+Secure+%26+Scalable+Applications!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=650&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Subham+Kumar+Prusty!;Data+scientist+%7C+web+developer;Building+Secure+%26+Scalable+Applications!" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/biswajeet-mohapatra"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Biswajeet-Mohapatra2004"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Biswajeet-Mohapatra2004&style=for-the-badge&color=blue" />
-</p>
+  <a href="www.linkedin.com/in/subham-kumar-prusty"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Subhamkp07"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
 
 ---
 
@@ -19,9 +18,9 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/>
 
-- 🎓 3rd Year B.Tech CSE @ ITER, SOA University (CGPA: 8.52)  
-- 💻 Backend Developer | Spring Boot | REST APIs | PostgreSQL  
-- 🛡️ Cybersecurity Enthusiast | Network & System Security  
+- 🎓 4th Year B.Tech CSE @ ITER, SOA University  
+- 💻  Data analytics | web development | Internet of things
+- 🛡️ Data science Enthusiast | Big data   
 - 🚀 Skilled at building secure and scalable applications with real-world deployments  
 - 🌐 Based in Bhubaneswar, India 🇮🇳  
 
@@ -63,32 +62,24 @@
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswajeet-Mohapatra2004&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=Biswajeet-Mohapatra2004&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajeet-Mohapatra2004&theme=react-dark&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
-</p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 📫 **Email**: mbiswajeet66@gmail.com  
-- 💻 **GitHub**: [Biswajeet-Mohapatra2004](https://github.com/Biswajeet-Mohapatra2004)  
-- 🔗 **LinkedIn**: [biswajeet-mohapatra](https://linkedin.com/in/biswajeet-mohapatra)
+- 📫 **Email**: subhamkumarprusty1@gmail.com 
+- 💻 **GitHub**: [Subbhamkp07](https://github.com/Subhamkp07)  
+- 🔗 **LinkedIn**: [Subham-kumar-prusty ](www.linkedin.com/in/subham-kumar-prusty)
 
 ## 🖥️ Terminal Peek
 
 ```bash
 > whoami
-> Biswajeet-Mohapatra
+> Subham kumar Prusty
 
 > skills
-> [Spring Boot, REST API, PostgreSQL, React, Cybersecurity, Docker]
+> [Data analytics , Python , java , web development , java script]
 
 > mission
 > "Code • Secure • Innovate • Repeat 🔁"
