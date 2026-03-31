@@ -70,7 +70,7 @@
 
 - 📫 **Email**: subhamkumarprusty1@gmail.com 
 - 💻 **GitHub**: [Subbhamkp07](https://github.com/Subhamkp07)  
-- 🔗 **LinkedIn**: [Subham-kumar-prusty ](www.linkedin.com/in/subham-kumar-prusty)
+- 🔗 **LinkedIn**: [Subham-kumar-prusty](www.linkedin.com/in/subham-kumar-prusty)
 
 ## 🖥️ Terminal Peek
 
